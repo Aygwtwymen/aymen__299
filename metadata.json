@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Developer Bot",
+  "description": "An AI-powered coding assistant that generates, edits, and previews web projects in real-time.",
+  "requestFramePermissions": []
+}
